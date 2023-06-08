@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451326404075",
+    "firebase_url": "https://planofdiet-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "planofdiet",
+    "storage_bucket": "planofdiet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451326404075:android:5d2d903f9ad93c8da065ae",
+        "android_client_info": {
+          "package_name": "com.example.planofdiet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451326404075-qov6smq1564fgab780id668f4k9cujdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.planofdiet",
+            "certificate_hash": "bc0bd7408eb3b5578d384d1212845add05e5eb95"
+          }
+        },
+        {
+          "client_id": "451326404075-7ssbd4vo6maih2motrfaag15dais93sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD0CyM_SJvsab13hmKqngavoysgQvMs8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451326404075-1k5bnk6usk7802epbjv247m06dla2o9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
